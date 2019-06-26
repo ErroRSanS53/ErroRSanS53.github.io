@@ -1,0 +1,37 @@
+body{
+	font-style: 20px;
+	background-color: #dedede;
+	font-family: 'Aguafina Script', cursive;
+	color: #1e2022;
+
+}
+
+p {
+	margin: 25px 0;
+}
+
+img{
+	max-width: 100%;
+	height: auto;
+}
+
+h1{
+	font-size: 40px;
+	color: #c10000;
+	text-align: center;
+	padding-bottom: 10px;
+}
+h2{
+	color: #ff4949
+}
+a:hover{
+	border-bottom-color: #929aab
+}
+a{
+	text-decoration: none;
+	color: #1e2022;
+	display: inline-block;
+	margin: 5px 0;
+	border-bottom: 1px soil transparent;
+	transition: 0.2s ease-in;
+}
